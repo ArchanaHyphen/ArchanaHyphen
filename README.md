@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ArchanaHyphen
+- 👋 Hi, I’m Archana Kashikar @ArchanaHyphen
 - 👀 I’m interested in writing code that moves things
 - 🌱 I’m currently learning planning algorithms
 - 💞️ I’m looking to collaborate on anything fun
-- 📫 How to reach me ...
+- 📫 How to reach me archana.kashikar@gmail.com
 
 <!---
 ArchanaHyphen/ArchanaHyphen is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
